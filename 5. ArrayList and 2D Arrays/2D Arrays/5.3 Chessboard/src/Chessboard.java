@@ -13,7 +13,7 @@ public class Chessboard
             else
                chessboard[y][x] = '\u25A0';
          }
-      }///
+      }
 
       for (char[] row: chessboard)
       {
