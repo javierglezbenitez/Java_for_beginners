@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MealTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-18T10:17:12" hostname="LAPTOP-93SSDTGR" time="0.006">
+  <properties/>
+  <testcase name="testSolution" classname="MealTests" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
